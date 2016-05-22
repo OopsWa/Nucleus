@@ -1,0 +1,75 @@
+.link-page-behind {
+    display: block;
+    line-height: 46px;
+    height: 46px;
+    font-size: 18px;
+    color: #888888;
+    background: #f9f9f9;
+    width:940px;position: relative;left: 204px;
+}
+.project-type-section input[type=radio] {
+    display: none;
+    font-size: 16px;
+}
+.project-type-section input[type=radio]:checked+.project-type {
+    background-color: #F2F5EA;
+    border-color: #8BAF46;
+}
+.project-type {
+    display: inline-block;
+    width: 316px;
+    margin-right: 20px;
+    padding: 15px 10px;
+    border: 1px solid #d1d1d1;
+    border-radius: 4px;
+    background-color: #fff;
+    cursor: pointer;
+    -webkit-transition: all 100ms ease-in-out;
+    -moz-transition: all 100ms ease-in-out;
+    transition: all 100ms ease-in-out;
+}
+.info {
+    padding-left: 34px;
+}
+.project-type .twr {
+    float: left;
+    width: 60px;
+    font-size: 40px;
+    color: #ccc;
+    line-height: 60px;
+    text-align: center;
+}
+.invite-item {
+    position: relative;
+    margin: 15px 0;
+}
+input.invite-email {
+    width: 300px;
+    font-size: 15px;
+}
+.no-border{
+    border: none;
+    border-bottom: 1px dashed #cccccc;
+    box-shadow: black;
+}
+.invite-role-field {
+    display: inline-block;
+    vertical-align: bottom;
+    font-size: 16px;
+}
+.new-project{
+    display: block;
+}
+.before{
+    position: relative;left:-709px;
+
+}
+.panel-content{
+    width: 960px;margin-left: 195px;
+}
+.creat-project{
+    margin: 0px 40px 40px 40px
+}
+.creat-project p{
+    color: #84a099; margin:30px 0px;
+}

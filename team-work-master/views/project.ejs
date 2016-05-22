@@ -1,0 +1,94 @@
+<link href="css/project.css" rel="stylesheet">
+<div class="c-info">
+    <% if (error) { %>
+    <div class="alert alert-danger alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+        <%= error %>
+    </div>
+    <% } %>
+</div>
+<div id="project" class="page-inner">
+    <div class="project-content">
+        <div class="project-header">
+            <div class="project-hd-info">
+                <p>项目名称</p>
+            </div>
+
+            <div class="project-links">
+
+                <a href="/projects/a422d56cdb3548bea24e3edb01a8c594/stats" class="link-stats" title="待处理任务" data-stack="" data-nocache="">
+                    <span class="main">0</span>
+                    <span>待处理任务</span>
+                </a>
+
+                <a href="/projects/a422d56cdb3548bea24e3edb01a8c594/members" class="link-admin-members" title="邀请新成员加入项目" data-stack="" data-nocache="">
+                    <span class="main">1</span>
+                    <span>成员</span>
+                </a>
+
+                <a href="/projects/a422d56cdb3548bea24e3edb01a8c594/settings" class="link-admin-settings" title="项目设置" data-visible-to="admin" data-stack="" data-nocache="">
+                    <span class="fui-gear"></span>
+                    <span class="setting">设置</span>
+                </a>
+            </div>
+        </div>
+        <div class="project-sections ">
+            <div class="section section-todos" id="todolists">
+                <h5><a class=demo-heading-note" href="#" >任务</a>
+                    <div class="dropdown">
+                        <button type="button" class="btn" id="dropdownMenu1"
+                                data-toggle="dropdown">
+                            添加任务
+                            <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                            <li role="presentation">
+                                <a role="menuitem" tabindex="-1" href="#">添加任务</a>
+                            </li>
+                            <li role="presentation">
+                                <a role="menuitem" tabindex="-1" href="#">添加清单</a>
+                            </li>
+                        </ul>
+                    </div>
+                </h5>
+            </div>
+            <div class="section section-messages" id="topics" data-droppable="">
+                <h5><a class=demo-heading-note" href="#">讨论</a>
+                    <button class="btn">发起讨论</button>
+                </h5>
+            </div>
+            <div class="section section-file" id="todolists">
+                <h5><a class=demo-heading-note" href="#">文件</a>
+                    <div  style=" margin-left: 100px" class="dropdown">
+                        <button type="button" class="btn dropdown-toggle" id="dropdownMenu1"
+                                data-toggle="dropdown">
+                            上传文件
+                            <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                            <li role="presentation">
+                                <a role="menuitem" tabindex="-1" href="#">上传文件</a>
+                            </li>
+                            <li role="presentation">
+                                <a role="menuitem" tabindex="-1" href="#">创建文件夹</a>
+                            </li>
+                        </ul>
+                    </div>
+                </h5>
+            </div>
+            <div class="section section-word" id="todolists">
+                <h5><a class=demo-heading-note" href="#">文档</a>
+                    <button class="btn"style=" margin-left: 43px">创建文档</button>
+                </h5>
+            </div>
+            <div class="section section-data" id="todolists">
+                <h5><a class=demo-heading-note" href="#">日程</a>
+                    <button class="btn demo-heading-note">创建日程</button>
+                </h5>
+            </div>
+
+        </div>
+    </div>
+</div>

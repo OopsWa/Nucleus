@@ -1,0 +1,19 @@
+.c-info {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+.c-title {
+  text-align: center;
+  margin: 100px 0 30px 0;
+}
+.c-form-group {
+  padding: 0;
+}
+.c-desc {
+  margin: 20px 0;
+}
+.c-left {
+  font-size: .8em;
+}

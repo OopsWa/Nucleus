@@ -1,0 +1,59 @@
+.project-header {
+    position: relative;
+    padding: 30px 0 4px;
+    border-bottom: 1px solid #B8C8CB;
+}
+.project-links {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    height: 58px;
+    overflow: hidden;
+}
+.project-links a {
+    display: block;
+    float: left;
+    position: relative;
+    margin: 0 8px 0 7px;
+    padding: 8px 0px;
+    width: 70px;
+    color: #84a099;
+    font-size: 12px;
+    text-align: center;
+    border-right: 1px solid #ddd;
+    height: 34px;
+}
+.project-links a .main {
+    font-size: 18px;
+    line-height: 24px;
+}
+.project-links a span {
+    display: block;
+}
+.project-content{
+    padding: 0px 40px 500px 40px;
+}
+.project-hd-info
+{
+    padding-bottom: 16px;border-bottom: 4px solid #B8C8CB;
+}
+.setting{
+    display: block;
+}
+.project-sections a{
+    color: #84a099;
+}
+.demo-heading-note
+{
+    float: left;
+}
+.dropdown{
+    margin-left: 100px;
+}
+.section{
+    margin-bottom: 50px;
+    position: relative;
+    width: 100%;
+}

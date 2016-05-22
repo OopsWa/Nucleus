@@ -1,0 +1,939 @@
+[Tue May 17 2016 15:10:57 GMT+0800 (CST)]/admin/
+Error: Failed to lookup view "admin/index" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/admin.js:4:16
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/jh/inbox/node/team-work/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:90:13)
+    at SendStream.emit (events.js:182:7)
+    at SendStream.error (/Users/jh/inbox/node/team-work/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/jh/inbox/node/team-work/node_modules/send/index.js:356:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/send/index.js:658:28)
+[Tue May 17 2016 15:11:22 GMT+0800 (CST)]/admin/
+Error: Failed to lookup view "admin/index" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/admin.js:4:16
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/jh/inbox/node/team-work/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:90:13)
+    at SendStream.emit (events.js:182:7)
+    at SendStream.error (/Users/jh/inbox/node/team-work/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/jh/inbox/node/team-work/node_modules/send/index.js:356:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/send/index.js:658:28)
+[Tue May 17 2016 15:11:31 GMT+0800 (CST)]/admin
+Error: Failed to lookup view "admin/index" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/admin.js:4:16
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/jh/inbox/node/team-work/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:90:13)
+    at SendStream.emit (events.js:182:7)
+    at SendStream.error (/Users/jh/inbox/node/team-work/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/jh/inbox/node/team-work/node_modules/send/index.js:356:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/send/index.js:630:16)
+[Tue May 17 2016 15:11:38 GMT+0800 (CST)]/admin
+Error: Failed to lookup view "admin/index" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/admin.js:4:16
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/jh/inbox/node/team-work/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:90:13)
+    at SendStream.emit (events.js:182:7)
+    at SendStream.error (/Users/jh/inbox/node/team-work/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/jh/inbox/node/team-work/node_modules/send/index.js:356:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/send/index.js:630:16)
+[Tue May 17 2016 15:42:32 GMT+0800 (CST)]/login
+Error: Failed to lookup view "[object Object]" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/index.js:32:9
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (/Users/jh/inbox/node/team-work/passport/checkLogin.js:68:5)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+[Tue May 17 2016 15:42:42 GMT+0800 (CST)]/login
+Error: Failed to lookup view "[object Object]" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/index.js:32:9
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (/Users/jh/inbox/node/team-work/passport/checkLogin.js:68:5)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+[Tue May 17 2016 15:42:43 GMT+0800 (CST)]/login
+Error: Failed to lookup view "[object Object]" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/index.js:32:9
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (/Users/jh/inbox/node/team-work/passport/checkLogin.js:68:5)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+[Tue May 17 2016 15:42:44 GMT+0800 (CST)]/login
+Error: Failed to lookup view "[object Object]" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/index.js:32:9
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (/Users/jh/inbox/node/team-work/passport/checkLogin.js:68:5)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+[Tue May 17 2016 16:39:36 GMT+0800 (CST)]/login
+Error: Failed to lookup view "[object Object]" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/index.js:32:9
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (/Users/jh/inbox/node/team-work/passport/checkLogin.js:68:5)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+[Tue May 17 2016 17:01:36 GMT+0800 (CST)]/upload
+Error: ENOENT: no such file or directory, open '/Users/jh/inbox/node/team-work/routes../public/uploads/file-1463475696558'
+    at Error (native)
+[Tue May 17 2016 17:02:04 GMT+0800 (CST)]/upload
+Error: ENOENT: no such file or directory, open '/Users/jh/inbox/node/team-work/routes../public/uploads/file-1463475724547'
+    at Error (native)
+[Tue May 17 2016 17:02:12 GMT+0800 (CST)]/upload
+Error: ENOENT: no such file or directory, open '/Users/jh/inbox/node/team-work/routes../public/uploads/file-1463475732478'
+    at Error (native)
+[Tue May 17 2016 17:02:43 GMT+0800 (CST)]/upload
+Error: ENOENT: no such file or directory, open '/Users/jh/inbox/node/team-work/routes../public/uploads/file-1463475763726'
+    at Error (native)
+[Tue May 17 2016 17:03:47 GMT+0800 (CST)]/upload
+Error: ENOENT: no such file or directory, open '/Users/jh/inbox/node/team-work/routes../public/uploads/file-1463475827767'
+    at Error (native)
+[Tue May 17 2016 17:05:00 GMT+0800 (CST)]/upload
+Error: ENOENT: no such file or directory, open '/Users/jh/inbox/node/team-work/routes../public/uploads/file-1463475900356'
+    at Error (native)
+[Tue May 17 2016 17:05:06 GMT+0800 (CST)]/upload
+Error: ENOENT: no such file or directory, open '/Users/jh/inbox/node/team-work/routes../public/uploads/file-1463475906566'
+    at Error (native)
+[Tue May 17 2016 17:15:10 GMT+0800 (CST)]/upload
+Error: Unexpected field
+    at makeError (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/Users/jh/inbox/node/team-work/node_modules/multer/index.js:39:19)
+    at Busboy.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-middleware.js:112:7)
+    at emitMany (events.js:121:13)
+    at Busboy.emit (events.js:195:7)
+    at Busboy.emit (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/main.js:31:35)
+    at PartStream.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:90:13)
+    at PartStream.emit (events.js:182:7)
+    at HeaderParser.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/Dicer.js:51:16)
+    at emitOne (events.js:90:13)
+    at HeaderParser.emit (events.js:182:7)
+    at HeaderParser._finish (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at emitMany (events.js:121:13)
+    at SBMH.emit (events.js:195:7)
+[Tue May 17 2016 17:15:12 GMT+0800 (CST)]/upload
+Error: Unexpected field
+    at makeError (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/Users/jh/inbox/node/team-work/node_modules/multer/index.js:39:19)
+    at Busboy.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-middleware.js:112:7)
+    at emitMany (events.js:121:13)
+    at Busboy.emit (events.js:195:7)
+    at Busboy.emit (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/main.js:31:35)
+    at PartStream.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:90:13)
+    at PartStream.emit (events.js:182:7)
+    at HeaderParser.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/Dicer.js:51:16)
+    at emitOne (events.js:90:13)
+    at HeaderParser.emit (events.js:182:7)
+    at HeaderParser._finish (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at emitMany (events.js:121:13)
+    at SBMH.emit (events.js:195:7)
+[Tue May 17 2016 17:15:14 GMT+0800 (CST)]/upload
+Error: Unexpected field
+    at makeError (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/Users/jh/inbox/node/team-work/node_modules/multer/index.js:39:19)
+    at Busboy.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-middleware.js:112:7)
+    at emitMany (events.js:121:13)
+    at Busboy.emit (events.js:195:7)
+    at Busboy.emit (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/main.js:31:35)
+    at PartStream.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:90:13)
+    at PartStream.emit (events.js:182:7)
+    at HeaderParser.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/Dicer.js:51:16)
+    at emitOne (events.js:90:13)
+    at HeaderParser.emit (events.js:182:7)
+    at HeaderParser._finish (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at emitMany (events.js:121:13)
+    at SBMH.emit (events.js:195:7)
+[Tue May 17 2016 17:15:31 GMT+0800 (CST)]/upload
+Error: Unexpected field
+    at makeError (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/Users/jh/inbox/node/team-work/node_modules/multer/index.js:39:19)
+    at Busboy.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-middleware.js:112:7)
+    at emitMany (events.js:121:13)
+    at Busboy.emit (events.js:195:7)
+    at Busboy.emit (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/main.js:31:35)
+    at PartStream.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:90:13)
+    at PartStream.emit (events.js:182:7)
+    at HeaderParser.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/Dicer.js:51:16)
+    at emitOne (events.js:90:13)
+    at HeaderParser.emit (events.js:182:7)
+    at HeaderParser._finish (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at emitMany (events.js:121:13)
+    at SBMH.emit (events.js:195:7)
+[Tue May 17 2016 17:15:49 GMT+0800 (CST)]/upload
+Error: Unexpected field
+    at makeError (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/Users/jh/inbox/node/team-work/node_modules/multer/index.js:39:19)
+    at Busboy.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-middleware.js:112:7)
+    at emitMany (events.js:121:13)
+    at Busboy.emit (events.js:195:7)
+    at Busboy.emit (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/main.js:31:35)
+    at PartStream.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:90:13)
+    at PartStream.emit (events.js:182:7)
+    at HeaderParser.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/Dicer.js:51:16)
+    at emitOne (events.js:90:13)
+    at HeaderParser.emit (events.js:182:7)
+    at HeaderParser._finish (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at emitMany (events.js:121:13)
+    at SBMH.emit (events.js:195:7)
+[Tue May 17 2016 17:16:03 GMT+0800 (CST)]/upload
+Error: Unexpected field
+    at makeError (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/Users/jh/inbox/node/team-work/node_modules/multer/index.js:39:19)
+    at Busboy.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-middleware.js:112:7)
+    at emitMany (events.js:121:13)
+    at Busboy.emit (events.js:195:7)
+    at Busboy.emit (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/main.js:31:35)
+    at PartStream.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:90:13)
+    at PartStream.emit (events.js:182:7)
+    at HeaderParser.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/Dicer.js:51:16)
+    at emitOne (events.js:90:13)
+    at HeaderParser.emit (events.js:182:7)
+    at HeaderParser._finish (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at emitMany (events.js:121:13)
+    at SBMH.emit (events.js:195:7)
+[Tue May 17 2016 17:16:04 GMT+0800 (CST)]/upload
+Error: Unexpected field
+    at makeError (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/Users/jh/inbox/node/team-work/node_modules/multer/index.js:39:19)
+    at Busboy.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-middleware.js:112:7)
+    at emitMany (events.js:121:13)
+    at Busboy.emit (events.js:195:7)
+    at Busboy.emit (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/main.js:31:35)
+    at PartStream.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:90:13)
+    at PartStream.emit (events.js:182:7)
+    at HeaderParser.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/Dicer.js:51:16)
+    at emitOne (events.js:90:13)
+    at HeaderParser.emit (events.js:182:7)
+    at HeaderParser._finish (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at emitMany (events.js:121:13)
+    at SBMH.emit (events.js:195:7)
+[Tue May 17 2016 17:16:13 GMT+0800 (CST)]/upload
+Error: Unexpected field
+    at makeError (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/Users/jh/inbox/node/team-work/node_modules/multer/index.js:39:19)
+    at Busboy.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-middleware.js:112:7)
+    at emitMany (events.js:121:13)
+    at Busboy.emit (events.js:195:7)
+    at Busboy.emit (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/main.js:31:35)
+    at PartStream.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:90:13)
+    at PartStream.emit (events.js:182:7)
+    at HeaderParser.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/Dicer.js:51:16)
+    at emitOne (events.js:90:13)
+    at HeaderParser.emit (events.js:182:7)
+    at HeaderParser._finish (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at emitMany (events.js:121:13)
+    at SBMH.emit (events.js:195:7)
+[Tue May 17 2016 17:16:47 GMT+0800 (CST)]/upload
+Error: Unexpected field
+    at makeError (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/Users/jh/inbox/node/team-work/node_modules/multer/index.js:39:19)
+    at Busboy.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-middleware.js:112:7)
+    at emitMany (events.js:121:13)
+    at Busboy.emit (events.js:195:7)
+    at Busboy.emit (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/main.js:31:35)
+    at PartStream.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:90:13)
+    at PartStream.emit (events.js:182:7)
+    at HeaderParser.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/Dicer.js:51:16)
+    at emitOne (events.js:90:13)
+    at HeaderParser.emit (events.js:182:7)
+    at HeaderParser._finish (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at emitMany (events.js:121:13)
+    at SBMH.emit (events.js:195:7)
+[Tue May 17 2016 17:17:05 GMT+0800 (CST)]/upload
+Error: Unexpected field
+    at makeError (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/Users/jh/inbox/node/team-work/node_modules/multer/index.js:39:19)
+    at Busboy.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-middleware.js:112:7)
+    at emitMany (events.js:121:13)
+    at Busboy.emit (events.js:195:7)
+    at Busboy.emit (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/main.js:31:35)
+    at PartStream.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:90:13)
+    at PartStream.emit (events.js:182:7)
+    at HeaderParser.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/Dicer.js:51:16)
+    at emitOne (events.js:90:13)
+    at HeaderParser.emit (events.js:182:7)
+    at HeaderParser._finish (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at emitMany (events.js:121:13)
+    at SBMH.emit (events.js:195:7)
+[Tue May 17 2016 17:17:12 GMT+0800 (CST)]/upload
+Error: Unexpected field
+    at makeError (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/Users/jh/inbox/node/team-work/node_modules/multer/index.js:39:19)
+    at Busboy.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-middleware.js:112:7)
+    at emitMany (events.js:121:13)
+    at Busboy.emit (events.js:195:7)
+    at Busboy.emit (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/main.js:31:35)
+    at PartStream.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:90:13)
+    at PartStream.emit (events.js:182:7)
+    at HeaderParser.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/Dicer.js:51:16)
+    at emitOne (events.js:90:13)
+    at HeaderParser.emit (events.js:182:7)
+    at HeaderParser._finish (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at emitMany (events.js:121:13)
+    at SBMH.emit (events.js:195:7)
+[Tue May 17 2016 17:17:13 GMT+0800 (CST)]/upload
+Error: Unexpected field
+    at makeError (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/Users/jh/inbox/node/team-work/node_modules/multer/index.js:39:19)
+    at Busboy.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/multer/lib/make-middleware.js:112:7)
+    at emitMany (events.js:121:13)
+    at Busboy.emit (events.js:195:7)
+    at Busboy.emit (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/main.js:31:35)
+    at PartStream.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:90:13)
+    at PartStream.emit (events.js:182:7)
+    at HeaderParser.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/Dicer.js:51:16)
+    at emitOne (events.js:90:13)
+    at HeaderParser.emit (events.js:182:7)
+    at HeaderParser._finish (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/jh/inbox/node/team-work/node_modules/dicer/lib/HeaderParser.js:40:12)
+    at emitMany (events.js:121:13)
+    at SBMH.emit (events.js:195:7)
+[Wed May 18 2016 22:41:11 GMT+0800 (CST)]/register
+Error: Failed to lookup view "[object Object]" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/index.js:92:9
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+[Wed May 18 2016 22:41:54 GMT+0800 (CST)]/register
+Error: Failed to lookup view "[object Object]" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/index.js:92:9
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+[Wed May 18 2016 22:41:57 GMT+0800 (CST)]/login
+Error: Failed to lookup view "[object Object]" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/index.js:38:9
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+[Wed May 18 2016 22:42:39 GMT+0800 (CST)]/register
+Error: Failed to lookup view "[object Object]" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/index.js:92:9
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+[Wed May 18 2016 22:42:42 GMT+0800 (CST)]/login
+Error: Failed to lookup view "[object Object]" in views directory "/Users/jh/inbox/node/team-work/views"
+    at EventEmitter.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/Users/jh/inbox/node/team-work/node_modules/express/lib/response.js:961:7)
+    at /Users/jh/inbox/node/team-work/routes/index.js:38:9
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/jh/inbox/node/team-work/node_modules/express/lib/router/index.js:271:10)
+[Thu May 19 2016 19:40:47 GMT+0800 (中国标准时间)]/register
+ReferenceError: emial is not defined
+    at G:\team-work\team-work-master\routes\index.js:130:34
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (G:\team-work\team-work-master\passport\checkLogin.js:68:5)
+[Fri May 20 2016 18:07:44 GMT+0900 (韩国标准时间)]/login
+TypeError: User.findUserByEmail is not a function
+    at G:\team-work\team-work-master\routes\index.js:61:10
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (G:\team-work\team-work-master\passport\checkLogin.js:68:5)
+[Fri May 20 2016 18:47:59 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: name is not defined
+    at G:\team-work\team-work-master\routes\index.js:233:30
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Fri May 20 2016 18:51:01 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: name is not defined
+    at G:\team-work\team-work-master\routes\index.js:233:30
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Fri May 20 2016 21:08:33 GMT+0900 (韩国标准时间)]/login
+TypeError: User.findUserByEmail is not a function
+    at G:\team-work\team-work-master\routes\index.js:61:10
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (G:\team-work\team-work-master\passport\checkLogin.js:68:5)
+[Fri May 20 2016 22:06:20 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: name is not defined
+    at G:\team-work\team-work-master\routes\index.js:233:30
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Fri May 20 2016 22:06:30 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: name is not defined
+    at G:\team-work\team-work-master\routes\index.js:233:30
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Fri May 20 2016 22:08:50 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: name is not defined
+    at G:\team-work\team-work-master\routes\index.js:233:30
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Fri May 20 2016 22:16:29 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: name is not defined
+    at G:\team-work\team-work-master\routes\index.js:233:30
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Fri May 20 2016 22:17:11 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: name is not defined
+    at G:\team-work\team-work-master\routes\index.js:233:30
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Fri May 20 2016 22:30:49 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: name is not defined
+    at G:\team-work\team-work-master\routes\index.js:233:30
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Fri May 20 2016 22:30:56 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: name is not defined
+    at G:\team-work\team-work-master\routes\index.js:233:30
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Fri May 20 2016 22:33:20 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: name is not defined
+    at G:\team-work\team-work-master\routes\index.js:233:30
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Fri May 20 2016 22:34:04 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: name is not defined
+    at G:\team-work\team-work-master\routes\index.js:233:30
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Fri May 20 2016 22:34:36 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: name is not defined
+    at G:\team-work\team-work-master\routes\index.js:234:30
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Fri May 20 2016 22:37:51 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: req is not defined
+    at Project.insert (G:\team-work\team-work-master\models\project.model.js:17:19)
+    at G:\team-work\team-work-master\routes\index.js:236:12
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+[Fri May 20 2016 22:38:33 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: req is not defined
+    at Project.insert (G:\team-work\team-work-master\models\project.model.js:17:19)
+    at G:\team-work\team-work-master\routes\index.js:236:13
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+[Fri May 20 2016 22:38:40 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: req is not defined
+    at Project.insert (G:\team-work\team-work-master\models\project.model.js:17:19)
+    at G:\team-work\team-work-master\routes\index.js:236:13
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+[Sat May 21 2016 00:00:22 GMT+0900 (韩国标准时间)]/newproject
+TypeError: Project.insert is not a function
+    at G:\team-work\team-work-master\routes\index.js:236:14
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Sat May 21 2016 00:00:26 GMT+0900 (韩国标准时间)]/newproject
+TypeError: Project.insert is not a function
+    at G:\team-work\team-work-master\routes\index.js:236:14
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Sat May 21 2016 00:40:25 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: req is not defined
+    at Project.insert (G:\team-work\team-work-master\models\project.model.js:17:19)
+    at G:\team-work\team-work-master\routes\index.js:236:13
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+[Sat May 21 2016 00:41:41 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: req is not defined
+    at Project.insert (G:\team-work\team-work-master\models\project.model.js:17:19)
+    at G:\team-work\team-work-master\routes\index.js:236:13
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+[Sat May 21 2016 00:41:56 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: req is not defined
+    at Project.insert (G:\team-work\team-work-master\models\project.model.js:17:19)
+    at G:\team-work\team-work-master\routes\index.js:236:13
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+[Sat May 21 2016 00:42:24 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: req is not defined
+    at Project.insert (G:\team-work\team-work-master\models\project.model.js:17:19)
+    at G:\team-work\team-work-master\routes\index.js:236:13
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+[Sat May 21 2016 01:05:20 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: req is not defined
+    at Project.insert (G:\team-work\team-work-master\models\project.model.js:17:19)
+    at G:\team-work\team-work-master\routes\index.js:236:13
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+[Sat May 21 2016 01:07:02 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: req is not defined
+    at Project.insert (G:\team-work\team-work-master\models\project.model.js:17:19)
+    at G:\team-work\team-work-master\routes\index.js:236:13
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+[Sat May 21 2016 01:09:35 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: req is not defined
+    at Project.insert (G:\team-work\team-work-master\models\project.model.js:13:15)
+    at G:\team-work\team-work-master\routes\index.js:236:13
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+[Sat May 21 2016 13:59:39 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: project is not defined
+    at G:\team-work\team-work-master\routes\index.js:234:17
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Sat May 21 2016 14:14:04 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: project is not defined
+    at G:\team-work\team-work-master\routes\index.js:234:17
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Sat May 21 2016 14:17:29 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: project is not defined
+    at G:\team-work\team-work-master\routes\index.js:234:17
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Sat May 21 2016 14:17:36 GMT+0900 (韩国标准时间)]/newproject
+ReferenceError: project is not defined
+    at G:\team-work\team-work-master\routes\index.js:234:17
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at serveStatic (G:\team-work\node_modules\express\node_modules\serve-static\index.js:74:16)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+[Sat May 21 2016 17:11:37 GMT+0900 (韩国标准时间)]/register
+ReferenceError: emial is not defined
+    at G:\team-work\team-work-master\routes\index.js:140:34
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (G:\team-work\team-work-master\passport\checkLogin.js:68:5)
+[Sat May 21 2016 17:15:51 GMT+0900 (韩国标准时间)]/register
+TypeError: User is not a function
+    at G:\team-work\team-work-master\routes\index.js:140:19
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (G:\team-work\team-work-master\passport\checkLogin.js:68:5)
+[Sat May 21 2016 17:16:33 GMT+0900 (韩国标准时间)]/register
+TypeError: User is not a function
+    at G:\team-work\team-work-master\routes\index.js:140:19
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (G:\team-work\team-work-master\passport\checkLogin.js:68:5)
+[Sat May 21 2016 17:17:39 GMT+0900 (韩国标准时间)]/register
+TypeError: User is not a function
+    at G:\team-work\team-work-master\routes\index.js:139:18
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (G:\team-work\team-work-master\passport\checkLogin.js:68:5)
+[Sat May 21 2016 17:20:50 GMT+0900 (韩国标准时间)]/register
+TypeError: User is not a function
+    at G:\team-work\team-work-master\routes\index.js:139:18
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (G:\team-work\team-work-master\passport\checkLogin.js:68:5)
+[Sat May 21 2016 17:21:29 GMT+0900 (韩国标准时间)]/register
+TypeError: User is not a function
+    at G:\team-work\team-work-master\routes\index.js:139:18
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (G:\team-work\team-work-master\passport\checkLogin.js:68:5)
+[Sat May 21 2016 17:22:43 GMT+0900 (韩国标准时间)]/register
+TypeError: User is not a function
+    at G:\team-work\team-work-master\routes\index.js:139:18
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (G:\team-work\team-work-master\passport\checkLogin.js:68:5)
+[Sat May 21 2016 17:26:31 GMT+0900 (韩国标准时间)]/register
+TypeError: User.findUserByEmail is not a function
+    at G:\team-work\team-work-master\routes\index.js:141:10
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (G:\team-work\team-work-master\passport\checkLogin.js:68:5)
+[Sat May 21 2016 17:27:39 GMT+0900 (韩国标准时间)]/register
+TypeError: User.findUserByEmail is not a function
+    at G:\team-work\team-work-master\routes\index.js:141:10
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (G:\team-work\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\team-work\node_modules\express\lib\router\layer.js:95:5)
+    at G:\team-work\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (G:\team-work\node_modules\express\lib\router\index.js:330:12)
+    at next (G:\team-work\node_modules\express\lib\router\index.js:271:10)
+    at next (G:\team-work\node_modules\express\lib\router\route.js:121:14)
+    at checkLogin.checkNotLoginAdminForm (G:\team-work\team-work-master\passport\checkLogin.js:68:5)

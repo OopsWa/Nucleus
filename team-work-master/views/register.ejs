@@ -1,0 +1,48 @@
+<% include _head.ejs %>
+<link rel="stylesheet" href="/css/register.css">
+<% include _header.ejs %>
+
+<div class="c-info">
+  <% if (error) { %>
+    <div class="alert alert-danger alert-dismissible" role="alert">
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+      <%= error %>
+    </div>
+  <% } %>
+</div>
+
+<div class="row">
+  <div class="col-xs-10 col-md-4 col-xs-offset-1 col-md-offset-4">
+    <h1 class="text-primary c-title">nucleus</h1>
+
+    <form role="form" action="/register" method="post">
+      <div class="form-group c-form-group">
+        <input type="text" class="form-control" id="name" name="name" placeholder="你的名字">
+      </div>
+      <div class="form-group form-group-padding">
+        <input type="email" class="form-control" id="email" name="email" placeholder="邮箱，例如: 10001@qq.com">
+      </div>
+      <div class="form-group form-group-padding">
+        <input type="password" class="form-control" id="password" name="password" placeholder="密码，至少包含 6 位字符">
+      </div>
+      <div class="form-group form-group-padding">
+        <input type="password" class="form-control" id="re_password" name="re_password" placeholder="请再次输入密码">
+      </div>
+      <button type="submit" class="btn btn-success btn-lg btn-block">注册</button>
+      <div class="c-desc">
+        <p class="c-left">
+          已有 nucleus 账号？<span>
+            <a href="/login">直接登录 →</a>
+          </span>
+        </p>
+      </div>
+    </form>
+
+  </div>
+
+</div>
+
+<% include _footer.ejs %>
+<% include _foot.ejs %>

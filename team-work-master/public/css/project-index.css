@@ -1,0 +1,25 @@
+.project-head{
+    padding: 10px 30px 0; height: 35px;
+}
+.project-body{
+    margin: 0 30px 80px;
+
+}
+.new-project{
+    float: right; line-height: 16px;margin: 7px 10px;font-size: 18px; padding-right: 8px;
+}
+.view{
+    float: right;
+}
+.projects-footer {
+    margin: 0 auto 20px;
+    padding: 10px 10px 0;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 900px;
+    font-size: 14px;
+    box-sizing: border-box;
+    border-top: solid 1px #eee;
+}

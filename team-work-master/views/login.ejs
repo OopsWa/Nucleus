@@ -1,0 +1,50 @@
+<% include _head.ejs %>
+<link rel="stylesheet" href="/css/register.css">
+<% include _header.ejs %>
+
+<div class="c-info">
+  <% if (error) { %>
+    <div class="alert alert-danger alert-dismissible" role="alert">
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+      <%= error %>
+    </div>
+  <% } %>
+</div>
+
+<div class="row">
+  <div class="col-xs-10 col-md-4 col-xs-offset-1 col-md-offset-4">
+    <h1 class="text-primary c-title">nucleus</h1>
+
+    <form role="form" action="/login" method="post">
+      <div class="form-group form-group-padding">
+        <input type="email" class="form-control" id="email" name="email" placeholder="邮箱">
+      </div>
+      <div class="form-group form-group-padding">
+        <input type="password" class="form-control" id="password" name="password" placeholder="密码">
+      </div>
+      <button type="submit" class="btn btn-success btn-lg btn-block">登陆</button>
+      <div class="c-desc">
+        <p class="c-left">
+          <p class="c-left">
+            <span>
+              <a href="/login">忘记密码? </a>
+            </span>
+            &nbsp;
+            <span>
+              没有账号?
+              <a href="/register">立即注册 →</a>
+            </span>
+          </p>
+
+        </p>
+      </div>
+    </form>
+
+  </div>
+
+</div>
+
+<% include _footer.ejs %>
+<% include _foot.ejs %>

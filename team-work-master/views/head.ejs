@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= title %></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=1000, initial-scale=1.0, maximum-scale=1.0">
+    <link href="/utils/flat-ui/css/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/utils/flat-ui/css/flat-ui.css" rel="stylesheet">
+    <link href="/css/home.css" rel="stylesheet">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <script src="/utils/flat-ui/js/vendor/jquery.min.js"></script>
+</head>
+<body>
+<header style="width: 960px; margin: 20px auto;height: 30px">
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="navbar-header">
+            <a class="navbar-brand dropdown-toggle" data-toggle="dropdown" href="#">Nucleus
+                <span class="fui-triangle-down-small"></span></a>
+            <ul class="dropdown-menu">
+                <li><a href="#">jmeter</a></li>
+                <li><a href="#">EJB</a></li>
+                <li><a href="#">Jasper Report</a></li>
+                <li class="divider"></li>
+                <li><a href="#">分离的链接</a></li>
+                <li class="divider"></li>
+                <li><a href="#">另一个分离的链接</a></li>
+            </ul>
+        </div>
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="#">项目</a></li>
+            <li><a href="#">动态</a></li>
+            <li><a href="#">周报</a></li>
+            <li><a href="#">日历</a></li>
+            <li><a href="#">我自己</a></li>
+        </ul>
+        <div class="command-bar">
+            <div class="search-wrap">
+                <a href="javascript:;" class="link-search" title="搜索"><span class="fui-search"></span></a>
+            </div>
+
+            <div class="notification-info">
+                <a href="javascript:;" id="notification-count" class="label " title="新的通知" data-unread-count="0" data-url="/teams/33e50bf86957490a9e6f0581cb1d7f74/notifications/unread_counts">
+                    <span class="fui-mail"></span>
+                    <span class="num">1</span>
+                </a>
+            </div>
+            <div class="account-info">
+                <div class="member-settings">
+                    <a class="link-member-menu" href="javascript:;" title="王婷">
+                        <img class="avatar" src="/assets/default_avatars/noon.jpg" alt="王婷">
+                        <span class="fui-triangle-down-small"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>

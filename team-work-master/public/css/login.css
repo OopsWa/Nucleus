@@ -1,0 +1,9 @@
+.masthead{
+    padding: 5%;
+    background-image: url(/dist/img/bg-index.jpg);
+    background-repeat: no-repeat;
+    background-size: auto 600px;
+    background-repeat: repeat-x;
+    background-position: 0 0;
+    text-align: center;
+}

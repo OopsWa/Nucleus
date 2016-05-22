@@ -1,0 +1,21 @@
+.link-signin:hover {
+  opacity: 0.8;
+}
+.link-signin {
+  color: #699489;
+}
+.masthead {
+  padding: 15% 0 12%;
+  background-image: url(/dist/img/bg-index.jpg);
+  background-repeat: no-repeat;
+  background-size: auto 600px;
+  background-repeat: repeat-x;
+  background-position: 0 0;
+  text-align: center;
+}
+.btnsign {
+  width: 25%;
+  position: relative;
+  left: 37%;
+  margin: 10px 0;
+}
